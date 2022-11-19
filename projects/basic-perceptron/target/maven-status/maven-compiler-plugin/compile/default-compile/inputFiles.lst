@@ -1,0 +1,3 @@
+/root/projects/basic-perceptron/src/main/java/ds504/demorris/flink/methane/perceptron/PerceptronProcessFunction.java
+/root/projects/basic-perceptron/src/main/java/ds504/demorris/flink/methane/perceptron/DataStreamJob.java
+/root/projects/basic-perceptron/src/main/java/ds504/demorris/flink/methane/perceptron/ModelProcessFunction.java

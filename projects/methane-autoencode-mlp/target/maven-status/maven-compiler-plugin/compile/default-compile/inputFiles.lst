@@ -1,0 +1,3 @@
+/root/projects/methane-autoencode-mlp/src/main/java/ds504/demorris/flink/methane/mlp/autoencoded/DataStreamJob.java
+/root/projects/methane-autoencode-mlp/src/main/java/ds504/demorris/flink/methane/mlp/autoencoded/MLPProcessFunction.java
+/root/projects/methane-autoencode-mlp/src/main/java/ds504/demorris/flink/methane/mlp/autoencoded/CountsAggregate.java

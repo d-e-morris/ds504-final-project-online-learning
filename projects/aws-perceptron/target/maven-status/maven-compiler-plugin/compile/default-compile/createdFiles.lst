@@ -1,0 +1,4 @@
+ds504/demorris/flink/aws/PerceptronProcessFunction.class
+ds504/demorris/flink/aws/DataStreamJob.class
+ds504/demorris/flink/aws/DataStreamJob$1.class
+ds504/demorris/flink/aws/MeanAbsoluteErrorProcessFunction.class

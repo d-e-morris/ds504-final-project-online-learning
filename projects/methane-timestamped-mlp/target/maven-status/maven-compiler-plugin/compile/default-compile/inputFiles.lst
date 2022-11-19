@@ -1,0 +1,5 @@
+/root/projects/methane-timestamped-mlp/src/main/java/ds504/demorris/flink/methane/CreateWindowedInstance.java
+/root/projects/methane-timestamped-mlp/src/main/java/ds504/demorris/flink/methane/StringToTimestampedInstance.java
+/root/projects/methane-timestamped-mlp/src/main/java/ds504/demorris/flink/methane/CountsAggregate.java
+/root/projects/methane-timestamped-mlp/src/main/java/ds504/demorris/flink/methane/ModelProcessFunction.java
+/root/projects/methane-timestamped-mlp/src/main/java/ds504/demorris/flink/methane/DataStreamJob.java

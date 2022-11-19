@@ -1,0 +1,5 @@
+org/apache/flink/quickstart/DataStreamJob.class
+org/apache/flink/quickstart/ModelProcessFunction.class
+org/apache/flink/quickstart/ClassifyAndUpdateClassifierFunction.class
+org/apache/flink/quickstart/DataStreamJob$convertToInstance.class
+org/apache/flink/quickstart/PerformanceFunction.class

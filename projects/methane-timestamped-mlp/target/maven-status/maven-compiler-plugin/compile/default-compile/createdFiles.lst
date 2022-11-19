@@ -1,0 +1,5 @@
+ds504/demorris/flink/methane/CountsAggregate.class
+ds504/demorris/flink/methane/DataStreamJob.class
+ds504/demorris/flink/methane/ModelProcessFunction.class
+ds504/demorris/flink/methane/StringToTimestampedInstance.class
+ds504/demorris/flink/methane/CreateWindowedInstance.class
